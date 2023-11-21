@@ -1,7 +1,7 @@
 ## ASAP-SYSMODULES/OVERLAYS
 
 - ASAP-Updater용 한글화 시스모듈/오버레이.
-- Latest - 1118
+- Latest - 1121
 
 ## 크레딧
 
